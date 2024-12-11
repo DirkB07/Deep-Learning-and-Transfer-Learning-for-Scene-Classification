@@ -1,0 +1,5 @@
+tensorflow==2.6.2
+numpy==1.23.2
+matplotlib
+seaborn
+scikit-learn
